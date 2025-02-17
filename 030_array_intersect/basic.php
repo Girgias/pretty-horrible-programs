@@ -6,7 +6,7 @@ $a1 = [
 ];
 $a2 = [
     "hello",
-    "Forum PHP",
+    "PHP UK",
 ];
 
 print_r(array_intersect($a1, $a2));

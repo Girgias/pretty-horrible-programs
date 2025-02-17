@@ -2,16 +2,16 @@
 
 Welcome to PHP UK 2025!
 
-## Git statistics
+# Git statistics (top 15)
 *identical people were merged together*
 ```shell
 girgias@fedora:~/dev/php-src$ git shortlog --summary --numbered --all --no-merges --after=2024-01-01 --before=2025-01-01
    807  Niels Dossche
-   572  Peter Kokot
    587  Gina Peter Banyard
+   572  Peter Kokot
    250  Ilija Tovilo
-   224  Christoph M. Becker
    227  David Carlier
+   224  Christoph M. Becker
    150  Dmitry Stogov
    129  Arnaud Le Blanc
    100  Jakub Zelenka
@@ -21,16 +21,52 @@ girgias@fedora:~/dev/php-src$ git shortlog --summary --numbered --all --no-merge
     46  DanielEScherzer
     44  Ayesh Karunaratne
     38  Derick Rethans
-    34  Kamil Tekiela
 ```
 
-## Personal statistics (2024-01-01 to 2024-12-29)
+# Repo statistics (using [Graphite](https://app.graphite.dev)) (Period: 2024-01-01 to 2024-12-29)
+## php-src
+### Total PRs merged
+***1 557***
 
-Using [Graphite](https://app.graphite.dev) and [Year in Code](https://year-in-code.com/)
+### Total lines of code modified
+***586 311***
 
-### php-src:
- - 
+### Net lines of code added
+***+7 251***
 
-### Doc related: (`doc-en`, `phd`, `doc-base`)
+### Total PR reviews
+***3 909***
+
+### Unique authors
+***73***
+
+### Unique reviewers
+***92***
+
+### Personal statistics
+- 104 PRs merged
+- 715 PRs reviewed
+
+## Doc related: (`doc-en`, `phd`, `doc-base`)
+
+### Total PRs merged
+***1 072***
+
+### Total lines of code modified
+***160 008***
+
+### Net lines of code added
+***+33 064***
+
+### Total PR reviews
+***1 530***
+
+### Unique authors
+***132***
+
+### Unique reviewers
+***46***
+
+### Personal statistics
  - 87 PRs merged
  - 852 PRs reviewed
