@@ -1,6 +1,6 @@
 <?php
 
-// php -d disable_functions="strlen" 081_disable.php
+// php -d disable_functions="strlen" 080_disable/functions.php
 function strlen(string $str): int
 {
     return 42;
