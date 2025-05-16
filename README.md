@@ -1,6 +1,6 @@
-# Modernizing PHP one edge case at a time
+# PHP: Pretty Horrible Programs
 
-Welcome to phpday 2025!
+## Welcome phpday 2025!
 
 # Git statistics (top 15)
 *identical people were merged together*
@@ -25,23 +25,12 @@ girgias@fedora:~/dev/php-src$ git shortlog --summary --numbered --all --no-merge
 
 # Repo statistics (using [Graphite](https://app.graphite.dev)) (Period: 2024-01-01 to 2024-12-29)
 ## php-src
-### Total PRs merged
-***1 557***
-
-### Total lines of code modified
-***586 311***
-
-### Net lines of code added
-***+7 251***
-
-### Total PR reviews
-***3 909***
-
-### Unique authors
-***73***
-
-### Unique reviewers
-***92***
+- Total PRs merged: ***1 557***
+- Total lines of code modified: ***586 311***
+- Net lines of code added: ***+7 251***
+- Total PR reviews: ***3 909***
+- Unique authors: ***73***
+- Unique reviewers: ***92***
 
 ### Personal statistics
 - 104 PRs merged
@@ -49,23 +38,12 @@ girgias@fedora:~/dev/php-src$ git shortlog --summary --numbered --all --no-merge
 
 ## Doc related: (`doc-en`, `phd`, `doc-base`)
 
-### Total PRs merged
-***1 072***
-
-### Total lines of code modified
-***160 008***
-
-### Net lines of code added
-***+33 064***
-
-### Total PR reviews
-***1 530***
-
-### Unique authors
-***132***
-
-### Unique reviewers
-***46***
+- Total PRs merged: ***1 072***
+- Total lines of code modified: ***160 008***
+- Net lines of code added: ***+33 064***
+- Total PR reviews: ***1 530***
+- Unique authors: ***132***
+- Unique reviewers: ***46***
 
 ### Personal statistics
  - 87 PRs merged
