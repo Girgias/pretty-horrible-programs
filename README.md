@@ -1,6 +1,6 @@
 # Modernizing PHP one edge case at a time
 
-Welcome to PHP UK 2025!
+Welcome to phpday 2025!
 
 # Git statistics (top 15)
 *identical people were merged together*
