@@ -3,11 +3,13 @@
 class T {
     public $p1;
     public int $p2;
-    public readonly int $p3;
 
+    public function __construct(
+        public readonly int $p3,
+    ) { }
 }
 
-$o = new T();
+$o = new T(25);
 
 $a = new ArrayObject($o);
 $a['p1'] = 'hello';
