@@ -1,6 +1,38 @@
 # PHP: Pretty Horrible Programs
 
-## Welcome phpday 2025!
+## Welcome Leeds PHP!
+
+## Who Am I?
+
+- PHP Core developer, funded by The PHP Foundation
+- Documentation maintainer
+- Finder of edge cases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Git statistics (top 15)
 *identical people were merged together*
